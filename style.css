@@ -9,7 +9,6 @@ body{
     background-color: rgb(27, 97, 248);
     color: white;
     flex-wrap: wrap;
-    /* position:fixed; */
 }
 .logo{
     font-weight: 500;
@@ -85,7 +84,6 @@ body{
     height: 500px;
     width: 1250px;
     background-color: white;
-    /* padding-top: 501px; */
 }
 #our{
     color: blue;
